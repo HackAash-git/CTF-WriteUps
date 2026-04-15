@@ -55,7 +55,7 @@ All content is based on legal CTF environments and is not intended for unauthori
 ## 👤 Author
 
 **Aakash Soni**  
-GitHub: [Aaka0-root](https://github.com/Aaka0-root)
+GitHub: [HackAash](https://github.com/HackAash-git))
 
 ---
 ⭐ If you find these notes useful, feel free to star the repository!
